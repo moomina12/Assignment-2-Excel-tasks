@@ -1,16 +1,11 @@
 # Excel-tasks
-Data cleaning is the process of identifying, correcting, and removing errors, inconsistencies,
-and inaccuracies in datasets. It involves a series of steps such as data validation, data
-transformation, data normalization, and data enrichment to ensure that the data is accurate,
-complete, and consistent. The purpose of data cleaning is to improve the quality and reliability
-of data, making it more suitable for analysis, reporting, and decision-making. Data cleaning is
-a critical step in data preprocessing and is often performed before data analysis or machine
-learning algorithms are applied to the data. Record the entire tasks in a macro and save
-the excel file.
+
 Task 1
 Where Name is missing fill the value in place by extracting the name from the Email-id
 column.
+
 Task 2
+
 Fill the Missing Age value with the mean of the Age column.
 Task 3
 Clean and Format the Phone number column and it should show like (91-xxxxxxxx)
